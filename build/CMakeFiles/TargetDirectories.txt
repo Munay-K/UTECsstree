@@ -1,0 +1,14 @@
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/ss_tree_test.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/ss_tree_indexing.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/ss_tree_interface.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/compile_test.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/compile_indexing.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/run_test.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/run_indexing.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/test.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/indexing.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/compile_interface.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/run_interface.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/interface.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/edit_cache.dir
+/home/munay/University/2023-02/CS3014_EDA/labs/UTECsstree/build/CMakeFiles/rebuild_cache.dir
